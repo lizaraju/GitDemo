@@ -28,6 +28,7 @@ public class validateTitle extends base{
 			
 		driver.get(prop.getProperty("url"));
 		 log.info("Navigated to Home page");
+		 System.out.println("sherry was here");
 	}
 	@Test
 	
@@ -41,6 +42,7 @@ public class validateTitle extends base{
 		Assert.assertEquals(l.getTitle().getText(), "FEATURED CO123URSES");
 		 log.info("Successfully validated Text message");
 		 System.out.println("Test completed");
+		 System.out.println("Rhea was here");
 		 
 		;
 	

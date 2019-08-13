@@ -48,6 +48,13 @@ public void initialize() throws IOException
 		 
 		 System.out.println("liza was here");
 		 System.out.println("Aaron was here");
+		 System.out.println("Anna here");
+		 System.out.println("achu was here");
+		 
+		 System.out.println("mom");
+		 
+		 
+		 
 		 
 	 //   Assert.assertFalse(false);
 	
