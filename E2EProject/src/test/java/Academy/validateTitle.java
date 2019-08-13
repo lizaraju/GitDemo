@@ -29,6 +29,10 @@ public class validateTitle extends base{
 		driver.get(prop.getProperty("url"));
 		 log.info("Navigated to Home page");
 		 System.out.println("sherry was here");
+		 
+		 System.out.println("hey was here");
+		 System.out.println("hello was here");
+		 System.out.println("hi was here");
 	}
 	@Test
 	

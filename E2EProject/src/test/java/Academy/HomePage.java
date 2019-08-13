@@ -43,6 +43,11 @@ public class HomePage extends base{
 		System.out.println("Mummy was here");
 		System.out.println("dady was here");
 		
+		
+		 System.out.println("hey was here");
+		 System.out.println("hello was here");
+		 System.out.println("hi was here");
+		
 		log.info(text);
 		
 		lp.getLogin().click();
