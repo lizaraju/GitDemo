@@ -45,6 +45,8 @@ public void initialize() throws IOException
 	    Assert.assertTrue(l.getNavigationBar().isDisplayed());
 	    log.info("Navigation Bar is displayed");
 		 log.info("Test completed");
+		 
+		 System.out.println("liza was here");
 	 //   Assert.assertFalse(false);
 	
 	
