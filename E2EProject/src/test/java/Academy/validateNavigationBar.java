@@ -47,6 +47,8 @@ public void initialize() throws IOException
 		 log.info("Test completed");
 		 
 		 System.out.println("liza was here");
+		 System.out.println("Aaron was here");
+		 
 	 //   Assert.assertFalse(false);
 	
 	
